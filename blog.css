@@ -3,6 +3,11 @@
     background-image: url("paper.gif");
     
 }
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family:"didot-w01-italic,serif";
+ }
 .navbar{
     display: flex;
     justify-content: space-between;
